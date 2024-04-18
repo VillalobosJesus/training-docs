@@ -3,7 +3,7 @@ favicon_ico: "https://lib.arizona.edu/sites/all/themes/custom/redux_ual/favicon.
 title: Access & Information Services
 description: This is a test homepage to host training documents for Access and Information Services.
 theme: just-the-docs
-
+color_scheme: dark
 url: https://villalobosjesus.github.io/training-docs/
 
 aux_links:
